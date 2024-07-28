@@ -29,7 +29,7 @@ npm install
 ``` 
 
 ## Uso
-Esempi su come utilizzare l'applicazione:
+Esempi su come utilizzare l'applicazione (puoi trovarla anche su CodePen https://codepen.io/alessioberruto/pen/xxoRabY?editors=0012):
 
 Avvia l'applicazione (se necessario, con un server locale).
 1. Aggiungi città al sistema utilizzando il codice.
